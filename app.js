@@ -1530,6 +1530,7 @@ function openAbout(state, body) {
         <tr><td>Browser</td><td id="about-browser">—</td></tr>
         <tr><td>Storage used</td><td id="about-storage">…</td></tr>
         <tr><td>Built with</td><td>vanilla HTML · CSS · JS</td></tr>
+        <tr><td>Made with</td><td>❤️ by <b>Muhammad Saleh</b></td></tr>
       </table>
       <div class="about-actions">
         <button class="about-btn primary" id="about-restart">⏻ Restart</button>

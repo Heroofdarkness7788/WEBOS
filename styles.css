@@ -1024,6 +1024,14 @@ body.asleep #mini-player {
   transition: width 0.3s ease;
 }
 
+.boot-made {
+  position: absolute;
+  bottom: 50px;
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.5);
+  letter-spacing: 0.02em;
+}
+
 .boot-skip {
   position: absolute;
   bottom: 26px;
